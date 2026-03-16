@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sonu%20Meena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sonu-meena)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sonu%20Meena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonu-meena-53979a227/)
 [![GitHub](https://img.shields.io/badge/GitHub-SonuMeena-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SonuMeena)
 [![Email](https://img.shields.io/badge/Email-sonumeena240802%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonumeena240802@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](#)
@@ -121,9 +121,6 @@ A **dual-sided social impact platform** connecting restaurants & food businesses
 | 🔐 Cyber Security Certification | Tech Mahindra Foundation | Network Security, Ethical Hacking, Threat Analysis |
 
 
-
-
-
 ## 📚 Education
 
 ```
@@ -152,8 +149,8 @@ A **dual-sided social impact platform** connecting restaurants & food businesses
 
 ### 💬 Let's Connect & Build Something Amazing Together!
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)][(https://www.linkedin.com/in/sonu-meena-53979a227/)]
-[![GitHub](https://img.shields.io/badge/Follow%20Me-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/SonuMeena)
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sonu-meena-53979a227/)
+[![GitHub](https://img.shields.io/badge/Follow%20Me-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sonu2073)
 [![Email](https://img.shields.io/badge/Hire%20Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonumeena240802@gmail.com)
 
 <br/>
