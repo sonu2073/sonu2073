@@ -152,7 +152,7 @@ A **dual-sided social impact platform** connecting restaurants & food businesses
 
 ### 💬 Let's Connect & Build Something Amazing Together!
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sonu-meena)
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)][(https://www.linkedin.com/in/sonu-meena-53979a227/)
 [![GitHub](https://img.shields.io/badge/Follow%20Me-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/SonuMeena)
 [![Email](https://img.shields.io/badge/Hire%20Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonumeena240802@gmail.com)
 
