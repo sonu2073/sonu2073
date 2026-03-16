@@ -12,7 +12,7 @@
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sonu%20Meena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonu-meena-53979a227/)
-[![GitHub](https://img.shields.io/badge/GitHub-SonuMeena-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SonuMeena)
+[![GitHub](https://img.shields.io/badge/GitHub-SonuMeena-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sonu2073)
 [![Email](https://img.shields.io/badge/Email-sonumeena240802%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonumeena240802@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
