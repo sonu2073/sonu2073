@@ -1,70 +1,92 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sonu%20Meena&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CS%20Graduate%20%7C%20Problem%20Solver&descAlignY=60&descColor=a78bfa&animation=fadeIn" />
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:0d1117&height=200&section=header&text=Hey,%20I'm%20Sonu%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20AI%20%7C%20Testing%20Engineer%20%7C%20MCA%20Student&descAlignY=55&descSize=18" />
 
-<!-- Animated Typing SVG -->
+<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+the+Web%2C+One+Component+at+a+Time+%F0%9F%9A%80;React+%7C+Spring+Boot+%7C+Full-Stack+Dev;Turning+Ideas+into+Digital+Reality+%E2%9C%A8;Open+to+Exciting+Opportunities+%F0%9F%92%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Java+%7C+Python+%7C+React+%7C+Spring+Boot+Developer;AI+%26+Computer+Vision+Enthusiast+%F0%9F%A4%96;Software+Testing+%26+Automation+Engineer;Building+Real-World+Products+%F0%9F%9A%80;MCA+Student+%40+University+of+Kota" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sonu%20Meena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonu-meena-53979a227/)
-[![GitHub](https://img.shields.io/badge/GitHub-SonuMeena-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sonu2073)
-[![Email](https://img.shields.io/badge/Email-sonumeena240802%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonumeena240802@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
-<br/>
-
-
+![Profile Views](https://komarev.com/ghpvc/?username=sonu2073&color=6e40c9&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/sonu2073?label=Followers&style=flat-square&color=6e40c9)](https://github.com/sonu2073)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 About Me
 
-Hi, I'm Sonu Meena, a Computer Science graduate based in Sawai Madhopur, Rajasthan, India 🇮🇳
-I recently completed my B.Sc in Computer Science from the University of Delhi (2021–2025) and I'm currently open to Full-Stack / Frontend Developer roles.
-I'm passionate about Web Development, Problem Solving, and building products that create real impact. Fun fact — I built a food waste management platform to help redirect excess food to those in need 🍱
-When I'm not coding, you'll find me exploring Graphic Design or picking up the latest tech trends.
+```python
+class Sonu:
 
-> 🎯 *"I don't just write code — I craft digital experiences that solve real-world problems."*
+    education   = [
+        "B.Sc. CS  — Ram Lal Anand College, University of Delhi  (2021–2025)",
+        "MCA       — University of Kota  (Ongoing)"
+    ]
+    roles       = ["Full-Stack Developer", "AI / Computer Vision", "Testing Analyst", "Entrepreneur"]
+    company     = "NextGen Web Studio 🚀  (Founder)"
+    location    = "Sawai Madhopur, Rajasthan, India 🇮🇳"
+    current_focus = "Building AI-powered apps + MCA Semester 1"
+    fun_fact    = "I theme everything dark. My IDE, my desk, my soul. 🌑"
+
+    interests   = ["Web Dev", "Computer Vision", "Software Testing", "Dark Workspaces ⚡", "Gaming 🎮"]
+```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
-### 💬 Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<div align="center">
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+**Languages**
 
-### ⚙️ Backend & APIs
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Backend**
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### 🔧 Tools & DevOps
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+**AI / Computer Vision**
 
-### 🧪 Testing
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FF6600?style=for-the-badge&logo=testing-library&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Testing**
+
+![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testng&logoColor=white)
+
+**DevOps & Tools**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+</div>
 
 ---
 
@@ -72,89 +94,69 @@ When I'm not coding, you'll find me exploring Graphic Design or picking up the l
 
 <div align="center">
 
-### 🛒 WholeCART — Bulk Wholesale E-Commerce Platform
-> *March – July 2025 | Team of 4*
-
-</div>
-
-A full-featured **B2B e-commerce platform** that bridges the gap between retailers and wholesalers — no more middlemen, no more physical trips.
-
-**✨ Highlights:**
-- 🏪 Bulk purchasing system with automated discount tiers
-- 💬 Real-time chat between buyers and sellers
-- 🚚 Doorstep delivery tracking & management
-- ⭐ Customer feedback & assessment module
-- 🧾 Complete sales management dashboard
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=flat-square)
-
----
-
-<div align="center">
-
-### 🍱 Anndata — Food Waste Management Platform
-> *November 2024 – February 2025 | Team of 3*
-
-</div>
-
-A **dual-sided social impact platform** connecting restaurants & food businesses with charities to fight food insecurity.
-
-**✨ Highlights:**
-- 🤝 Smart matching between food donors and charitable organizations
-- ♻️ Reduces unnecessary energy from excess waste disposal
-- 🌍 Directly addresses food insecurity in communities
-- 📊 Real-time food availability tracking
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square)
-
----
-
-## 🏆 Certifications & Achievements
-
-| 🏅 Certification | 🏢 Issuer | 📌 Skills Gained |
+| 🗂️ Project | 📝 Description | 🔧 Stack |
 |---|---|---|
-| 🌐 Fundamentals of Digital Marketing | Google Digital Garage | SEO, SEM, Analytics, Social Media |
-| 🔐 Cyber Security Certification | Tech Mahindra Foundation | Network Security, Ethical Hacking, Threat Analysis |
+| 🤖 **Face Detection Attendance System** | AI-powered desktop app using real-time facial recognition to auto-mark attendance. 90%+ accuracy, analytics dashboard, automated Excel + email reports | Python, OpenCV, dlib, face_recognition, SQLite, Matplotlib |
+| 🛒 **WholeCART** | Bulk wholesale e-commerce platform connecting retailers & wholesalers. Real-time chat, bulk discounts, JWT auth, doorstep delivery | React, Spring Boot, MySQL, JWT |
+| 🍱 **Anndata** | Food waste redistribution platform linking F&B services to charities. Full CI/CD pipeline + automated test suite | Java, Spring Boot, Selenium, TestNG, GitHub Actions |
+| 🌐 **NextGen Web Studio** | Client-facing agency website with AI-powered chat widget | React, JavaScript, AI API |
 
+> 📌 *More projects pinned below ↓*
 
-## 📚 Education
-
-```
-🎓 B.Sc Computer Science                         Nov 2021 – Mar 2025
-   Ram Lal Anand College, University of Delhi
-   CGPA: 6.486 | Data Structures · Web Dev · DBMS · OOP
-
-📘 Senior Secondary (Class XII)                  Apr 2020 – Mar 2021
-   Kendriya Vidyalaya, Sawai Madhopur, Rajasthan
-   Score: 80.4% | Physics · Chemistry · Maths · CS
-```
+</div>
 
 ---
 
-## 💡 Currently...
-
-- 🔭 Working on expanding my **full-stack project portfolio**
-- 🌱 Learning **advanced Spring Boot microservices & cloud deployment**
-- 👯 Open to **collaborating on impactful open-source projects**
-- 💼 Actively **seeking full-stack / frontend developer opportunities**
-- 📫 Reach me at: **sonumeena240802@gmail.com**
-
----
+## 📊 GitHub Stats
 
 <div align="center">
 
-### 💬 Let's Connect & Build Something Amazing Together!
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonu2073&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu2073&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sonu-meena-53979a227/)
-[![GitHub](https://img.shields.io/badge/Follow%20Me-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sonu2073)
-[![Email](https://img.shields.io/badge/Hire%20Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonumeena240802@gmail.com)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sonu2073&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn" />
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sonu2073&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sonu2073&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4" />
+</div>
+
+---
+
+## 📜 Certifications
+
+- 🎯 **Fundamentals of Digital Marketing** — Google Digital Garage *(SEO, SEM, Google Analytics)*
+- 🔐 **Cyber Security Certification** — Tech Mahindra Foundation *(Ethical Hacking, Threat Analysis, Network Security)*
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sonu-meena-53979a227)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonumeena240802@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sonu2073)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://nextgenwebstudio.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:0d1117&height=120&section=footer" />
+
+*"Code is poetry written for machines, but read by humans."* ✨
 
 </div>
